@@ -5,6 +5,7 @@
 Need help, have questions, or want to chat with other users? Join the Discord:
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/ZwHAVHUsFR)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/sicxnull)
 
 > ⚠️ **WARNING:** Use these images at your own risk. They have been tested and confirmed working on the author's own hardware, but there is no guarantee they will work the same way on every device or revision. Flashing custom firmware can brick your miner — proceed with caution, and always keep a backup of your original image if possible.
 >
