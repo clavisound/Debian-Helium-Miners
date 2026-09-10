@@ -1,4 +1,4 @@
-# Bobcat G295 — Custom OS Flashing Guide
+# Bobcat G290 — Custom OS Flashing Guide
  
 ## Board Layout
 <img width="624" height="655" alt="bobcat-g290-layout" src="https://github.com/user-attachments/assets/34605988-ed85-4a7d-a749-c4beda984414" />
